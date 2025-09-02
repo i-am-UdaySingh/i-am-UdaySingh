@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @i-am-UdaySingh
-- 👀 I’m interested in ... Ethical Hacking,DevOps
-- 🌱 I’m currently learning ...DevOps
+- 👀 I’m interested in ... Red teaming
+- 🌱 I’m currently learning ...Penetration testing
 - 📫 How to reach me ... LinkedIn(Uday Singh)
 - 😄 Pronouns: ...He
 
